@@ -1,5 +1,5 @@
 # Git-Projects_Lab #1
-Artificial Intelligence in Enterprise Systems Lab #1 – Git Project practicing basic commands to perform the following
+Artificial Intelligence in Enterprise Systems Lab #1 – Git Project practicing basic commands to perform the following using git
 - git initialization
 - add new file
 - commit changes made to local repo
