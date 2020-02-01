@@ -7,4 +7,4 @@ Artificial Intelligence in Enterprise Systems Lab #1 – Git Project practicing 
 - update branches
 - merge / rebase branches
 - perform push operation to update github
-- uploading a python file 
+- uploading a python file
